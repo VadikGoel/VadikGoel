@@ -2,6 +2,10 @@
 
 ###
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=940&pause=99&center=true&width=435&lines=Gamer;Developer;Editor;Scrpit+Writer;Management;Designer)](https://git.io/typing-svg)
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VadikGoyal1&theme=tokyonight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="VadikGoyal1's GitHub Stats"  />
   <img src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/top-langs?username=VadikGoyal1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&height=150&hide_border=false" height="150" alt="languages graph"  />
