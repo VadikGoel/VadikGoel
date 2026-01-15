@@ -12,9 +12,9 @@
 
 <!-- STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VadikGoyal1&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" height="170" />
-  <img src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/top-langs?username=VadikGoyal1&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Vadikgoyal1&theme=tokyonight&hide_border=false&border_radius=5" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VadikGoel&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" height="170" />
+  <img src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/top-langs?username=VadikGoel&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="170" />
+  <img src="https://streak-stats.demolab.com?user=VadikGoel&theme=tokyonight&hide_border=false&border_radius=5" height="170" />
 </div>
 
 ###
@@ -78,17 +78,17 @@
 <br clear="both" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VadikGoyal1/VadikGoyal1/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/VadikGoel/VadikGoel/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vadikgoyal1&theme=dracula" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=VadikGoel&theme=dracula" alt="Trophies" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/VadikGoyal1/count.svg?" />
+  <img src="https://profile-counter.glitch.me/VadikGoel/count.svg?" />
 </div>
 
 ---
@@ -97,10 +97,10 @@
 <summary>My First Project</summary>
 <br>
 <div align="center">
-  <a href="https://github.com/VadikGoyal1/Coffee-Responsive-Website">
+  <a href="https://github.com/VadikGoel/Coffee-Responsive-Website">
     <img src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/pin/?username=VadikGoyal1&repo=Coffee-Responsive-Website&theme=tokyonight" />
   </a>
-  <a href="https://github.com/VadikGoyal1/Portfolio-template">
+  <a href="https://github.com/VadikGoel/Portfolio-template">
     <img src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/pin/?username=VadikGoyal1&repo=Portfolio-template&theme=tokyonight" />
   </a>
 </div>
