@@ -98,10 +98,10 @@
 <br>
 <div align="center">
   <a href="https://github.com/VadikGoel/Coffee-Responsive-Website">
-    <img src="https://github-readme-stats-VadikGoels-projects.vercel.app/api/pin/?username=VadikGoel&repo=Coffee-Responsive-Website&theme=tokyonight" />
+    <img src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/pin/?username=VadikGoel&repo=Coffee-Responsive-Website&theme=tokyonight" />
   </a>
   <a href="https://github.com/VadikGoel/Portfolio-template">
-    <img src="https://github-readme-stats-VadikGoels-projects.vercel.app/api/pin/?username=VadikGoel&repo=Portfolio-template&theme=tokyonight" />
+    <img src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/pin/?username=VadikGoel&repo=Portfolio-template&theme=tokyonight" />
   </a>
 </div>
 </details>
