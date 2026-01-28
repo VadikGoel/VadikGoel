@@ -13,7 +13,7 @@
 <!-- STATS -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VadikGoel&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" height="170" />
-  <img src="https://github-readme-stats-VadikGoel1s-projects.vercel.app/api/top-langs?username=VadikGoel&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="170" />
+  <img src="https://github-readme-stats-Vvadikgoyal1s-projects.vercel.app/api/top-langs?username=VadikGoel&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="170" />
   <img src="https://streak-stats.demolab.com?user=VadikGoel&theme=tokyonight&hide_border=false&border_radius=5" height="170" />
 </div>
 
