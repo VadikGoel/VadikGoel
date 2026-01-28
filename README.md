@@ -40,7 +40,7 @@
       <a href="https://buymeacoffee.com/VYPER_GAMER" target="_blank"><img src="https://img.shields.io/static/v1?message=BuyMeACoffee&logo=buymeacoffee&label=&color=FFDD00&logoColor=black&style=for-the-badge" /></a>
   </td>
     <td width="40%" align="center">
-      <img src="https://cdn.discordapp.com/avatars/779365065014247425/8ea2575cb5f2b2aa5ead3d9a5f30c82e.webp" width="220" style="border-radius: 20px;" />
+      <img src="https://avatars.githubusercontent.com/u/178655763?v=4" width="220" style="border-radius: 20px;" />
     </td>
   </tr>
 </table>
