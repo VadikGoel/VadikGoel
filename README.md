@@ -13,7 +13,7 @@
 <!-- STATS -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VadikGoel&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" height="170" />
-  <img src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/top-langs?username=VadikGoel&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="170" />
+  <img src="https://github-readme-stats-VadikGoel1s-projects.vercel.app/api/top-langs?username=VadikGoel&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="170" />
   <img src="https://streak-stats.demolab.com?user=VadikGoel&theme=tokyonight&hide_border=false&border_radius=5" height="170" />
 </div>
 
@@ -98,10 +98,10 @@
 <br>
 <div align="center">
   <a href="https://github.com/VadikGoel/Coffee-Responsive-Website">
-    <img src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/pin/?username=VadikGoyal1&repo=Coffee-Responsive-Website&theme=tokyonight" />
+    <img src="https://github-readme-stats-VadikGoels-projects.vercel.app/api/pin/?username=VadikGoel&repo=Coffee-Responsive-Website&theme=tokyonight" />
   </a>
   <a href="https://github.com/VadikGoel/Portfolio-template">
-    <img src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/pin/?username=VadikGoyal1&repo=Portfolio-template&theme=tokyonight" />
+    <img src="https://github-readme-stats-VadikGoels-projects.vercel.app/api/pin/?username=VadikGoel&repo=Portfolio-template&theme=tokyonight" />
   </a>
 </div>
 </details>
