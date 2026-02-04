@@ -31,7 +31,7 @@
       <img src="https://skillicons.dev/icons?i=js,react,html,css,py,ae,pr,ps,blender" />
       <br/><br/>
       <h3>📱 Connect With Me</h3>
-      <a href="https://www.instagram.com/vadik_goyal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+      <a href="https://www.instagram.com/vadik_goel/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
       <a href="https://discord.gg/NqFT9myzbT"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
       <a href="mailto:vadikgoyal121@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
       <a href="https://www.youtube.com/@VYPER_GAMER"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
