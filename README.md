@@ -61,7 +61,20 @@
 </p>
 <hr />
 
-### 🎧 Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=txod0ekwttolbqy5f2wpbek7i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-</p>
+<div align="center">
+
+<a href="https://open.spotify.com/track/3Th9hnDljACufaL9H98vv9">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731f1f06a21f0b54170f4f1a4a" width="250">
+</a>
+
+<br><br>
+
+<b>🎧 Now Playing</b><br>
+TIME — CITIZEN
+
+<br>
+
+<code>⏮️ ▶️ ⏭️</code><br>
+<sub>1:12 ━━━●━━━━ 3:02</sub>
+
+</div>
