@@ -57,7 +57,7 @@
   </p>
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VadikGoel&show_icons=true&theme=tokyonight" />
+  <img src="https://github-trophies.vercel.app/?username=vadikgoel&show_icons=true&theme=darkhub" />
 </p>
 <hr />
 
