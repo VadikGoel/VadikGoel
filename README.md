@@ -63,18 +63,19 @@
 
 <div align="center">
 
-<a href="https://open.spotify.com/track/3Th9hnDljACufaL9H98vv9">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731f1f06a21f0b54170f4f1a4a" width="250">
+<a href="https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW?si=871e4d587ac7403b">
+  <img src="https://i.scdn.co/image/ab67616d0000b27390c6e25ed80fd8a70c71e921" width="250">
 </a>
 
 <br><br>
 
 <b>🎧 Now Playing</b><br>
-TIME — CITIZEN
+Paaro — 
+Aditya Rikhari
 
 <br>
 
 <code>⏮️ ▶️ ⏭️</code><br>
-<sub>1:12 ━━━●━━━━ 3:02</sub>
+<sub>1:03 ━━━●━━━━ 2:33</sub>
 
 </div>
